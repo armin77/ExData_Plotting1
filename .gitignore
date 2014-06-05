@@ -1,3 +1,6 @@
 # Excluding data-Directory due to large size
 data
+
+# Excluding RStudio specific files
 .Rproj.user
+.Rhistory
